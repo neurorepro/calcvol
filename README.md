@@ -1,7 +1,9 @@
 # calcvol command-line tool
 
+Tool computing total image volume of a NIFTI file in different units
+
 ## Installation
-`python setup.py install`
+`pip install .`
 
 ## Help
 To see the command-line usage after installation, do:
